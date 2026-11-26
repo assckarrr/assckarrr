@@ -21,7 +21,7 @@ Express + Socket.io backend with JWT authentication, bcrypt password hashing and
 
 ## Tech
 
-**Mobile:** Swift, SwiftUI, SwiftData, UIKit basics, HealthKit, Flutter/Dart
+**Mobile:** Swift, SwiftUI, SwiftData, HealthKit, Flutter/Dart
 **Web:** JavaScript, TypeScript, React, Node.js, Express, MongoDB
 **Tools:** Git, Xcode, Firebase, OpenAI API, REST
 
